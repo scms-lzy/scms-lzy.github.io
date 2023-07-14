@@ -13,7 +13,7 @@ I am currently a professor in Shanghai Center for Mathematical Science (SCMS). M
 
 Research Area
 ======
-Moduli theory of varieties and sheaves, Hyper-Kahler geometry and Hodge theory
+Moduli space of varieties and sheaves, Hyper-Kahler geometry and Hodge theory
 
 Site-wide configuration
 ------
