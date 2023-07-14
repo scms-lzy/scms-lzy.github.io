@@ -12,3 +12,4 @@ This paper is about the number 1.
 
 [Download paper here](http://scms-lzy.github.io/files/paper1.pdf)
 
+Recommended citation: Your Name, You. (2010). "Paper Title Number 1." <i>Journal 1</i>. 1(2).
