@@ -3,9 +3,9 @@ title: "Algebra I"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/algebra1
-venue: "Fudan University"
+venue: "SCMS"
 date: 2022-09-01
-location: "Shanghai"
+location: "Fudan University"
 ---
 
 This is a description of a teaching experience. 
