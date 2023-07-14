@@ -9,6 +9,8 @@ location: "Fudan University"
 ---
 
 
+Course description: introduction to abstract algebra 
+
 Heading 1
 ======
 
