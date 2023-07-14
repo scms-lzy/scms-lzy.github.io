@@ -3,7 +3,7 @@ title: "Algebra I"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/algebra1
-venue: "SCMS"
+venue: "Fall"
 date: 2022-09-01
 location: "Fudan University"
 ---
