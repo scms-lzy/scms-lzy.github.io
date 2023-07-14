@@ -1,8 +1,8 @@
 ---
-title: "Teaching Courses"
+title: "Algebra I"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/algebra3
+permalink: /teaching/algebra1
 venue: "Fudan University"
 date: 2022-09-01
 location: "Shanghai"
