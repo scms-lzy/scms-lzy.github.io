@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Professor in Shanghai Center for mathematical Science. My research interest is algebraic geometry and related area. 
+I am currently a professor in Shanghai Center for Mathematical Science (SCMS). My research interest is algebraic geometry and related area. 
 
 
 Research Area
 ======
-Algebraic Geometry and Arithmetic Geometry 
+Moduli theory of varieties and sheaves, Hyper-Kahler geometry and Hodge theory
 
 Site-wide configuration
 ------
