@@ -10,8 +10,6 @@ redirect_from:
 
 I am currently a professor in Shanghai Center for Mathematical Science (SCMS). My research interest is algebraic geometry and related area. 
 
-
-
 ------
 
 Research area
