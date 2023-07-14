@@ -1,11 +1,11 @@
 ---
-title: "Stanford"
+title: "Algebra III"
 collection: teaching
 type: "Courses"
-permalink: /teaching/2015-spring-teaching-1
-venue: "Stanford University, Math Department"
-date: 2015-01-01
-location: "Palo Alto, U.S."
+permalink: /teaching/algebra-3
+venue: "SCMS"
+date: 2023-02-15
+location: "Fudan University"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
