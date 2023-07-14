@@ -22,8 +22,6 @@ Papers
 
 {% for post in site.publications %} {% include archive-single.html %} {% endfor %}
 
-
-{% for post in site.publications reversed %} {% include archive-single.html %} {% endfor %}
   
 * [Mukai's program for non-primitive curves on K3 surfaces](https://arxiv.org/abs/2208.07226) (with Yiran Chen and Haoyu Wu), arXiv:2208.07226.
 
