@@ -1,7 +1,7 @@
 ---
 title: "Algebra III"
 collection: teaching
-type: "Courses"
+type: "Undergraduate courses"
 permalink: /teaching/algebra-3
 venue: "SCMS"
 date: 2023-02-15
