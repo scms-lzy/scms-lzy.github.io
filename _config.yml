@@ -82,10 +82,9 @@ analytics:
 author:
   name             : "Zhiyuan Li"
   avatar           : "profile.png"
-  bio              : "I am a Professor in Shanghai center for Mathematical Science"
+  bio              : "I am a Professor in Shanghai Center for Mathematical Science"
   location         : "SCMS"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Shanghai Center for Mathematical Science"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
