@@ -2,7 +2,7 @@
 title: "Paper Title Number 2"
 collection: publications
 permalink: /publication/number-3
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper is about the number 2.'
 date: 2010-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
