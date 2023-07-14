@@ -83,7 +83,7 @@ author:
   name             : "Zhiyuan Li"
   avatar           : "profile.png"
   bio              : "I am a Professor in Shanghai center for Mathematical Science"
-  location         : "Location"
+  location         : "SCMS"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "scms-lzy.github.io"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,11 +109,9 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
-  youtube          :
   wikipedia        :
 
 
