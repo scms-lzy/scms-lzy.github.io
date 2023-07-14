@@ -83,8 +83,8 @@ author:
   name             : "Zhiyuan Li"
   avatar           : "profile.JPG"
   bio              : "I am a Professor in Shanghai Center for Mathematical Science"
-  location         : "SCMS"
-  employer         : "Shanghai Center for Mathematical Science"
+  location         : #"SCMS"
+  employer         : "SCMS"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
