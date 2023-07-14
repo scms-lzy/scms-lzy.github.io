@@ -3,7 +3,7 @@ title: "Algebra III"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/algebra-3
-venue: "SCMS"
+venue: "Spring"
 date: 2023-02-15
 location: "Fudan University"
 ---
