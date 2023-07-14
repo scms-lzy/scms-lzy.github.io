@@ -19,11 +19,11 @@ Research area
 Papers
 ------
 
-<font color=blue>◆</font> Mukai's program for non-primitive curves on K3 surfaces (with Yiran Chen and Haoyu Wu), arXiv:2208.07226.
+<font color=blue>◆</font>Mukai's program for non-primitive curves on K3 surfaces (with Yiran Chen and Haoyu Wu), arXiv:2208.07226.
 
-<font color=blue>◆</font> Unpolarized Shafarevich conjectures for hyper-Kähler varieties (with Lie Fu, Teppei Takamatsu, Haitao Zou), arXiv:2203.10391.
+<font color=blue>◆</font>Unpolarized Shafarevich conjectures for hyper-Kähler varieties (with Lie Fu, Teppei Takamatsu, Haitao Zou), arXiv:2203.10391.
 
-<font color=blue>◆</font> Beauville-Voisin filtrations on zero cycles of moduli space of stable sheaves on K3 surfaces (with Ruxuan Zhang), Int Math Res Notices, rnac161.
+<font color=blue>◆</font>Beauville-Voisin filtrations on zero cycles of moduli space of stable sheaves on K3 surfaces (with Ruxuan Zhang), Int Math Res Notices, rnac161.
 
 <font color=blue>◆</font> Algebraic reverse Khovanskii-Teissier inequality via Okounkov bodies (with Chen Jiang), arXiv:2112.02847. 
 
@@ -68,4 +68,11 @@ Papers
 
 Other links
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+■ Online LaTeX Editor Overleaf
+
+■ Shanghai Center for Mathematical Science
+
+■ List of AG conferences in China
+
+■ Ravi Vakil’s list of AG conferences
