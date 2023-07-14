@@ -19,7 +19,7 @@ Research area
 Papers
 ------
 
-◆ Mukai's program for non-primitive curves on K3 surfaces (with Yiran Chen and Haoyu Wu), arXiv:2208.07226.
+<font color=red>◆</font> Mukai's program for non-primitive curves on K3 surfaces (with Yiran Chen and Haoyu Wu), arXiv:2208.07226.
 
 ◆ Unpolarized Shafarevich conjectures for hyper-Kähler varieties (with Lie Fu, Teppei Takamatsu, Haitao Zou), arXiv:2203.10391.
 
