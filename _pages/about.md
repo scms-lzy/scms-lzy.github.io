@@ -25,18 +25,6 @@ Papers
   {% endfor %}</font></ul>
   
   
-* [Mukai's program for non-primitive curves on K3 surfaces](https://arxiv.org/abs/2208.07226) (with Yiran Chen and Haoyu Wu), arXiv:2208.07226.
-
-* [Unpolarized Shafarevich conjectures for hyper-Kähler varieties](https://arxiv.org/abs/2203.10391) (with Lie Fu, Teppei Takamatsu, Haitao Zou), arXiv:2203.10391.
-
-* [Beauville-Voisin filtrations on zero cycles of moduli space of stable sheaves on K3 surfaces]() (with Ruxuan Zhang), Int Math Res Notices, rnac161.
-
-<font color=blue>◆</font> Algebraic reverse Khovanskii-Teissier inequality via Okounkov bodies (with Chen Jiang), arXiv:2112.02847. 
-
-<font color=blue>◆</font> Deligne-Beilinson cohomology of universal K3 surfaces  (with Xun Zhang), to appear in Forum of Mathematics, Sigma.
-
-
-
 Other links
 ------
 
