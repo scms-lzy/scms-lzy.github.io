@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a professor in Shanghai Center for Mathematical Science (SCMS). My research interest is algebraic geometry and related area. 
+<font face="Times New Roman"> I am currently a professor in Shanghai Center for Mathematical Science (SCMS). My research interest is algebraic geometry and related area. </font>
 
 ------
 
