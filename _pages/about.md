@@ -28,10 +28,12 @@ Papers
 Other links
 ------
 
-■ Online LaTeX Editor Overleaf
+<font face="Times New Roman">
+  
+■ [Shanghai Center for Mathematical Science](https://scms.fudan.edu.cn)
 
-■ Shanghai Center for Mathematical Science
+■ [List of AG conferences in China](http://www.alggeom.org/agac.html)
 
-■ List of AG conferences in China
+■ [Ravi Vakil’s list of AG conferences](https://math.stanford.edu/~vakil/conferences.html)
 
-■ Ravi Vakil’s list of AG conferences
+</font>
