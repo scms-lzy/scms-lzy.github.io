@@ -8,4 +8,4 @@ paperurl: 'https://arxiv.org/abs/2305.10078'
 citation: 'Zhiyuan Li, Xun Yu, Ruxuan Zhang; <i>arXiv:2305.10078</i>.'
 ---
 
-Download paper [here](https://arxiv.org/abs/2305.10078). Dowload [Computations for Prop 6.2](https://scms-lzy.github.io/files/bloch-computation1.pdf) and [Prop 6.8](https://scms-lzy.github.io/files/bloch-computation2.pdf).
+Download paper [here](https://arxiv.org/abs/2305.10078). The computation of Prop 6.2 and Prop 6.8 are available [here](https://scms-lzy.github.io/files/bloch-computation2.pdf).
