@@ -6,5 +6,6 @@ venue: "Fall"
 location: "Fudan University"
 ---
 
-
+Description: Introduction to group theory, ring theory and field theory. 
+===
 
