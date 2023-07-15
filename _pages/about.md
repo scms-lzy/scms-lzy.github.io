@@ -21,7 +21,7 @@ Papers
 ------
 
 
- <ul> <font size=5>{% for post in site.publications reversed %}
+ <ul> <font size=3>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</font></ul>
   
