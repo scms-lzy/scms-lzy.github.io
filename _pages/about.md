@@ -27,13 +27,9 @@ Papers
   
 Other links
 ------
-
-<font face="Times New Roman">
   
-■ [Shanghai Center for Mathematical Science](https://scms.fudan.edu.cn)
+■ <font face="Times New Roman"> [Shanghai Center for Mathematical Science](https://scms.fudan.edu.cn)</font>
 
-■ [List of AG conferences in China](http://www.alggeom.org/agac.html)
+■ <font face="Times New Roman"> [List of AG conferences in China](http://www.alggeom.org/agac.html)</font>
 
-■ [Ravi Vakil’s list of AG conferences](https://math.stanford.edu/~vakil/conferences.html)
-
-</font>
+■ <font face="Times New Roman"> [Ravi Vakil’s list of AG conferences](https://math.stanford.edu/~vakil/conferences.html)</font>
