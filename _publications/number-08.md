@@ -8,4 +8,5 @@ paperurl: 'https://projecteuclid.org/journals/duke-mathematical-journal/volume-1
 citation: 'Nicolas Bergeron, Zhiyuan Li; <i>Duke. Math. J.</i>, vol 168, 1179-1230 (2019).'
 ---
 
-Download paper [here](https://projecteuclid.org/journals/duke-mathematical-journal/volume-168/issue-7/Tautological-classes-on-moduli-spaces-of-hyper-Kähler-manifolds/10.1215/00127094-2018-0063.short)
+
+Download paper [here](https://projecteuclid.org/journals/duke-mathematical-journal/volume-168/issue-7/Tautological-classes-on-moduli-spaces-of-hyper-Kähler-manifolds/10.1215/00127094-2018-0063.short) and [Erratum](https://projecteuclid.org/journals/duke-mathematical-journal/volume-171/issue-1/Erratum-for-Tautological-classes-on-moduli-spaces-of-hyper-Kähler/10.1215/00127094-2021-0109.short)
