@@ -2,7 +2,6 @@
 title: "Existence of HCMU metrics on higher genus Riemann surfaces"
 collection: publications
 permalink: /publication/number-01
-excerpt: 'This paper is number 1. '
 date: 2007-07-01
 venue: 'master thesis'
 paperurl: 'http://scms-lzy.github.io/files/paper1.pdf'
