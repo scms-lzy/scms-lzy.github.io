@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Modular forms and special cubic fourfolds"
 collection: publications
 permalink: /publication/number-03
-excerpt: 'This paper is about the number 2.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2013-10-01
+venue: 'Adv. Math., 245:315-326, 2013'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0001870813002089?via%3Dihub'
+citation: 'Zhiyuan Li, Letao Zhang; <i>Adv. Math.</i>, 245:315-326, (2013).'
 ---
 
-Download paper [here](http://academicpages.github.io/files/paper2.pdf)
+Download paper [here](https://www.sciencedirect.com/science/article/pii/S0001870813002089?via%3Dihub)
 
