@@ -1,14 +1,13 @@
 ---
-title: "Algebra I"
+title: "Fudan University"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/algebra1
+permalink: /teaching/fudan
 venue: "Fall"
 date: 2022-09-01
 location: "Fudan University"
 ---
 
-This is a description of a teaching experience. 
+
 
 Heading 1
 ======
