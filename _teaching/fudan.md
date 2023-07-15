@@ -3,7 +3,6 @@ title: "Fudan University"
 collection: teaching
 permalink: /teaching/fudan
 venue: "Fall"
-date: 2022-09-01
 location: "Fudan University"
 ---
 
