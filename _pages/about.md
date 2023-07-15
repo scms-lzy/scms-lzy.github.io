@@ -14,7 +14,7 @@ I am currently a professor in Shanghai Center for Mathematical Science (SCMS). M
 
 Research area
 ------
-*Moduli space of varieties and sheaves, Hyper-Kähler geometry and Shimura varieties*
+<font size=3> *Moduli space of varieties and sheaves, Hyper-Kähler geometry and Shimura varieties* </font>
 
   
 Papers
