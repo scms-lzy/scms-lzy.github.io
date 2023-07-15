@@ -8,4 +8,4 @@ paperurl: 'https://arxiv.org/abs/2305.10078'
 citation: 'Zhiyuan Li, Xun Yu, Ruxuan Zhang; <i>arXiv:2305.10078</i>.'
 ---
 
-Download paper [here](https://arxiv.org/abs/2305.10078)
+Download paper [here](https://arxiv.org/abs/2305.10078) and [Computations for Prop 6.2 & 6.8]()
