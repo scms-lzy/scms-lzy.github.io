@@ -9,5 +9,5 @@ paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Zhiyuan Li, <i> Trans. Amer. Math. Soc. </i> 366, 6313-6328 (2014).'
 ---
 
-Download paper [here](http://academicpages.github.io/files/paper3.pdf)
+Download paper [here](https://www.ams.org/journals/tran/2014-366-12/S0002-9947-2014-06002-9/)
 
