@@ -8,6 +8,6 @@ paperurl: 'http://scms-lzy.github.io/files/paper1.pdf'
 citation: 'Zhiyuan Li; <i>master thesis</i>, (2007).'
 ---
 
-Download paper [here](http://academicpages.github.io/files/paper3.pdf)
+Download paper [here](http://scms-lzy.github.io/files/paper.pdf)
 
 
