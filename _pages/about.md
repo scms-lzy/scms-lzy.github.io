@@ -60,17 +60,10 @@ Papers
 
 <font color=blue>◆</font> Integral Hodge classes on fourfolds fibered by quadric bundles (with Zhiyu Tian), Proc. Amer. Math. Soc. 144 (2016), no. 8, 3333-3345.
 
-<font color=blue>◆</font> Picard groups on moduli space of K3 surfaces (with Franscois Greer, Zhiyu Tian), Int Math Res Notices (2015) (16): 7238-7257
-
-<font color=blue>◆</font> On Rational Connectedness of Globally F-Regular Threefolds (with Yoshinori Gongyo, Zsolt Patakfalvi, Karl Schwede, Hiromu Tanaka, Hong R. Zong), Adv. Math. 280:47-78, 2015.
 
 <font color=blue>◆</font> Moduli space of quasi-polarized K3 surfaces of degree 6 and 8 (with Zhiyu Tian), Chin. Ann. Math. Ser. B  42(3), 2021, 427–450
 
-<font color=blue>◆</font> Modular forms and special cubic fourfolds (with Letao Zhang), Adv. Math., 245:315-326, 2013.
 
-<font color=blue>◆</font> Sections of Calabi-Yau threefolds with K3 fibration, Trans. Amer. Math. Soc., 366:6313-6328, 2014.
-
-<font color=blue>◆</font> Existence of HCMU metrics on higher genus Riemann surfaces, master thesis, 2007
 
 
 Other links
