@@ -6,6 +6,6 @@ venue: "Fall"
 location: "Fudan University"
 ---
 
-Description: Introduction to group theory, ring theory and field theory. 
+Description
 ===
-
+<font face="Times New Roman">Introduction to group theory, ring theory and field theory. </font>
