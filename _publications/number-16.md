@@ -1,12 +1,12 @@
 ---
-title: "A note on Fourier-Mukai Partners of abelian varieties over positive characteristic fields"
+title: "Derived isogenies and isogenies for abelian surfaces"
 collection: publications
-permalink: /publication/number-15
-date: 2023-08-02
-venue: 'to appear in Kyoto J. Math.'
-paperurl: 'https://arxiv.org/abs/2107.05404'
-citation: 'Zhiyuan Li, Haitao Zou; to appear in <i>Kyoto J. Math.</i>.'
+permalink: /publication/number-16
+date: 2021-08-19
+venue: 'arXiv:2108.08710'
+paperurl: 'https://arxiv.org/abs/2108.08710v3'
+citation: 'Zhiyuan Li, Haitao Zou; <i>arXiv:2108.08710</i>.'
 ---
 
-Download paper [here](https://arxiv.org/abs/2107.05404)
+Download paper [here](https://arxiv.org/abs/2108.08710v3)
 
