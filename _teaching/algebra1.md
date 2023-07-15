@@ -1,7 +1,7 @@
 ---
-title: "Fudan University"
+title: "Algebra I"
 collection: teaching
-permalink: /teaching/fudan
+permalink: /teaching/algebra1
 venue: "Fall"
 location: "Fudan University"
 ---
