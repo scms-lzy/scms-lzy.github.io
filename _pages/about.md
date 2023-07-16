@@ -28,8 +28,8 @@ Papers
 Other links
 ------
   
-■  [<font size=3>Shanghai Center for Mathematical Science</font>](https://scms.fudan.edu.cn)
+■  [<font size=4 face="Times New Roman">Shanghai Center for Mathematical Science</font>](https://scms.fudan.edu.cn)
 
-■  [<font size=3>List of AG conferences in China</font>](http://www.alggeom.org/agac.html)
+■  [<font size=4 face="Times New Roman">List of AG conferences in China</font>](http://www.alggeom.org/agac.html)
 
-■  [<font size=3>Ravi Vakil’s list of AG conferences</font>](https://math.stanford.edu/~vakil/conferences.html)
+■  [<font size=4 face="Times New Roman">Ravi Vakil’s list of AG conferences</font>](https://math.stanford.edu/~vakil/conferences.html)
