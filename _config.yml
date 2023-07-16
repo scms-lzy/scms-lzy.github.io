@@ -171,6 +171,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  seminar:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -236,8 +239,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
-      
+      share: true    
   # _seminar
   - scope:
       path: ""
